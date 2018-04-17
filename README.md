@@ -3,9 +3,11 @@
 git config --global user.name  
 git config --global user.eamil  
 
+<hr>
+
 <h3>Creat README.md and Push onto Github</h3>
 
-echo "# git" >> README.md
+<p>echo "# git" >> README.md</p>
 <p>git init</p>
 <p>git add name</p>
 <p>git commit -m "first commit"</p>
