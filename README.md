@@ -1,15 +1,11 @@
 
 <h3>Creat README.md and Push onto Github</h3>
+
 $ echo "# git" >> README.md
-
 $ git init
-
 $ git add name
-
 $ git commit -m "first commit"
-
 $ git push 
-
 $ git remote add origin URL
 
 <hr>
