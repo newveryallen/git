@@ -1,3 +1,10 @@
+<h3>Create Config Name and Email</h3>
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+<hr>
+
 <h3>Check Config Name and Email</h3>
 
 git config --global user.name  
