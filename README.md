@@ -21,7 +21,9 @@ git config --global user.eamil
 <p>git push </p>
 <p>git remote add origin URL</p>
 
+<hr>
 
+ <p>git add .</p> 
 
 
 
