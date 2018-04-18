@@ -1,7 +1,7 @@
 <h3>Create Config Name and Email</h3>
 
 <p>git config --global user.name "John Doe"</p>
-<p>git config --global user.email johndoe@example.com</p>
+<p>git config --global user.email "johndoe@example.com"</p>
 
 <hr>
 
@@ -24,6 +24,8 @@ git config --global user.eamil
 <hr>
 
  <p>git add .</p> 
+ <p>git clone URL</p> 
+ 
 
 
 
