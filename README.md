@@ -25,6 +25,8 @@ git config --global user.eamil
 
  <p>git add .</p> 
  <p>git clone URL</p> 
+ <p>git add filename1 filename2 filename3 ....</p> 
+ <p>git add *.o</p> 
  
 
 
