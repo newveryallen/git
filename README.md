@@ -23,6 +23,8 @@ git config --global user.eamil
 
 <hr>
 
+<h3>Others</h3>
+
  <p>git add .</p> 
  <p>git clone URL</p> 
  <p>git add filename1 filename2 filename3 ....</p> 
