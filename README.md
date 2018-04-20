@@ -18,8 +18,8 @@ git config --global user.eamil
 <p>git init</p>
 <p>git add name</p>
 <p>git commit -m "first commit"</p>
-<p>git push </p>
 <p>git remote add origin URL</p>
+<p>git push </p>
 
 <hr>
 
