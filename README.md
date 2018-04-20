@@ -12,14 +12,13 @@ git config --global user.eamil
 
 <hr>
 
-<h3>Creat README.md and Push onto Github</h3>
+<h3>Push New Folder to Remote Repo</h3>
 
-<p>echo "# git" >> README.md</p>
-<p>git init</p>
+<p>go to that particular folder</p>
+<p>clone remoteURL</p>
 <p>git add name</p>
 <p>git commit -m "first commit"</p>
-<p>git remote add origin URL</p>
-<p>git push </p>
+<p>git push remoteURL</p>
 
 <hr>
 
