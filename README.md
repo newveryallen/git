@@ -29,7 +29,10 @@ git config --global user.eamil
  <p>git add *.o</p> 
  <p>git add *Th*</p>
  
+<hr>
 
+README-Template.md:
+<a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">README-Template.md</a>
 
 
 
