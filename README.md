@@ -22,6 +22,13 @@ git config --global user.eamil
 
 <hr>
 
+<h3>Remove Folder</h3>
+
+git rm folder_name
+git commit -m "removed folder"
+git remote add origin https://github.com/trialcode/test.git
+git push -u origin master
+
 <h3>Others</h3>
 
  <p>git reset <file></p> 
