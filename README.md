@@ -43,6 +43,8 @@ git config --global user.eamil
  
 <hr>
 
+<h3>Git tutorial</h3>
+
 <a href="https://rtyley.github.io/bfg-repo-cleaner/#usage">BFG Repo-Cleaner</a>
 
 <hr>
