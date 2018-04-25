@@ -43,6 +43,10 @@ git config --global user.eamil
  
 <hr>
 
+<a href="https://rtyley.github.io/bfg-repo-cleaner/#usage">BFG Repo-Cleaner</a>
+
+<hr>
+
 README-Template.md:
 <a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">README-Template.md</a>
 
