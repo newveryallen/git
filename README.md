@@ -29,6 +29,8 @@ git config --global user.eamil
 <p>git remote add origin https://github.com/trialcode/test.git</p>
 <p>git push -u origin master</p>
 
+<hr>
+
 <h3>Others</h3>
 
  <p>git reset <file></p> 
