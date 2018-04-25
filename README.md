@@ -16,7 +16,7 @@ git config --global user.eamil
 
 <p>go to that particular folder</p>
 <p>clone remoteURL</p>
-<p>git add name</p> //undo<p>git reset <file></p> 
+<p>git add name</p> 
 <p>git commit -m "first commit"</p>
 <p>git push remoteURL</p>
 
@@ -24,6 +24,7 @@ git config --global user.eamil
 
 <h3>Others</h3>
 
+ <p>git reset <file></p> 
  <p>git add .</p> 
  <p>git clone URL</p> 
  <p>git add filename1 filename2 filename3 ....</p> 
