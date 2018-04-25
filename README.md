@@ -39,6 +39,7 @@ git config --global user.eamil
  <p>git add filename1 filename2 filename3 ....</p> 
  <p>git add *.o</p> 
  <p>git add *Th*</p>
+ <p>git push origin master --force</p>
  
 <hr>
 
