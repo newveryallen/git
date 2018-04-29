@@ -52,5 +52,5 @@ git config --global user.eamil
 README-Template.md:
 <a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">README-Template.md</a>
 
-
+<p>Here is some <del>deleted</del> text</p>
 
