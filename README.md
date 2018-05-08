@@ -52,4 +52,7 @@ git config --global user.eamil
 README-Template.md:
 <a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">README-Template.md</a>
 
+<hr>
+
+<h3>How To Use GIT and SourceTree - For Beginners</h3>
 
