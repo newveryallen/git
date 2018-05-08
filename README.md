@@ -57,4 +57,6 @@ README-Template.md:
 <h3>How To Use GIT and SourceTree - For Beginners</h3>
 <a href="https://www.youtube.com/watch?v=1lBdlh3AGSc">Source</a>
 
+1.Master Repo 2.local Repo 3.State/Revision 4.commit 5.nodes 6.branch 7.head 8.merge 9.push 10.fetch 11.pull
+
 <hr>
