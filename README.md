@@ -62,4 +62,6 @@ README-Template.md:
 給 Laravel 初學者的幾點建議
 http://oomusou.io/laravel/laravel-for-newbie/
 
+http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_tw/ch02.html
+
 <hr>
